@@ -1,3 +1,5 @@
+This is a fork of https://github.com/horst3180/vertex-theme
+
 # Vertex Theme
 
 ### Requirements
