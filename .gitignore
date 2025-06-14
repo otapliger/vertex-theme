@@ -1,0 +1,11 @@
+node_modules
+Makefile.in
+Makefile
+*.cache
+missing
+compile
+config.*
+configure
+build-aux
+install-sh
+aclocal.m4
